@@ -1,0 +1,1 @@
+1. mảng không thêm được khi nào ?
